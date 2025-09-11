@@ -47,21 +47,21 @@ Copiar código
 
 1. Clone o repositório:
 
-```bash
-git clone https://github.com/Thomas-Adrian-Soler-Nilsson/AtividadeDs.git
-cd AtividadeDs
-Para executar a comparação de idades:
-
-bash
-Copiar código
-cd AtividadeDs
-dotnet run
-Para executar a média salarial:
-
-bash
-Copiar código
-cd ../Atividade2Ds
-dotnet run
+    ```bash
+    git clone https://github.com/Thomas-Adrian-Soler-Nilsson/AtividadeDs.git
+    cd AtividadeDs
+    Para executar a comparação de idades:
+    
+    bash
+    Copiar código
+    cd AtividadeDs
+    dotnet run
+    Para executar a média salarial:
+    
+    bash
+    Copiar código
+    cd ../Atividade2Ds
+    dotnet run
 🧾 Exemplos de uso
 Comparação de Idades
 yaml
