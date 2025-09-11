@@ -65,25 +65,25 @@ Copiar código
 🧾 Exemplos de uso
 Comparação de Idades
 yaml
-Copiar código
-Digite o nome da primeira pessoa:
-Ana
-Digite a idade da primeira pessoa:
-34
-Digite o nome da segunda pessoa:
-Carlos
-Digite a idade da segunda pessoa:
-29
-Ana é mais velho
-Média Salarial
+    Copiar código
+    Digite o nome da primeira pessoa:
+    Ana
+    Digite a idade da primeira pessoa:
+    34
+    Digite o nome da segunda pessoa:
+    Carlos
+    Digite a idade da segunda pessoa:
+    29
+    Ana é mais velho
+    Média Salarial
 yaml
-Copiar código
-Digite o nome do primeiro funcionario:
-Maria
-Digite o salario do primeiro funcionario:
+    Copiar código
+    Digite o nome do primeiro funcionario:
+    Maria
+    Digite o salario do primeiro funcionario:
 3000.00
-Digite o nome do segundo funcionario:
-João
-Digite o salario do segundo funcionario:
+    Digite o nome do segundo funcionario:
+   João
+   Digite o salario do segundo funcionario:
 3500.00
 Salario medio = 3250.00
