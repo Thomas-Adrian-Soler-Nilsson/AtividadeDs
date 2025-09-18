@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36408.4 d17.14
+VisualStudioVersion = 17.14.36408.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtividadeDs", "AtividadeDs\AtividadeDs.csproj", "{8522FC7F-DC4E-4FC0-845E-D2FB6B9B771E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade2Ds", "Atividade2Ds\Atividade2Ds.csproj", "{64E002A8-AA4C-4217-B942-7F0B46EFB3A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade3Ds", "Atividade3Ds\Atividade3Ds.csproj", "{A984580B-1C0F-4E5F-BCBB-9A19E6BD0890}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{64E002A8-AA4C-4217-B942-7F0B46EFB3A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64E002A8-AA4C-4217-B942-7F0B46EFB3A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64E002A8-AA4C-4217-B942-7F0B46EFB3A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A984580B-1C0F-4E5F-BCBB-9A19E6BD0890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A984580B-1C0F-4E5F-BCBB-9A19E6BD0890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A984580B-1C0F-4E5F-BCBB-9A19E6BD0890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A984580B-1C0F-4E5F-BCBB-9A19E6BD0890}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
